@@ -72,7 +72,8 @@ Expected Waveform:
 
 **Transient Analysis:**
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-6/assets/165141104/b668a40a-28ac-4083-928d-4225a40c816a
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-6/assets/165141104/9b808c13-00c4-47e4-8346-b3fb77bc5642)
+
 
 **DC Analysis:**
 
